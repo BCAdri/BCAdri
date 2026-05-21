@@ -36,7 +36,7 @@ Full-stack kanban board — React frontend, Express API, SQLite database, JWT au
 - 🎓 DAW graduate · cybersecurity supplementary training
 - 📍 Valencia, Spain
 - 💬 Happy to talk about web dev, side projects or job opportunities
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **byadrian05@gmail.com**
 
 ---
 
