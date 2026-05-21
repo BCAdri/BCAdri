@@ -1,6 +1,6 @@
-# Hey, I'm [Tu nombre] 👋
+# Hey, I'm Adrian Barroso 👋
 
-I'm a web developer based in Spain, recently graduated in **DAW** (Web Application Development) with additional training in cybersecurity. I enjoy building clean, functional interfaces and thinking about what happens behind them.
+I'm a web developer based in Spain, graduated in **DAW** (Web Application Development) with additional training in cybersecurity. I enjoy building clean, functional interfaces and thinking about what happens behind them.
 
 Currently looking for my first professional role — open to frontend, fullstack or anything in between.
 
@@ -9,7 +9,7 @@ Currently looking for my first professional role — open to frontend, fullstack
 ## What I work with
 
 **Frontend**
-React · Vue 3 · JavaScript (ES2022+) · HTML5 · CSS3
+React · Vue 3 · JavaScript · HTML5 · CSS3
 
 **Backend**
 Node.js · Express · REST APIs
@@ -24,7 +24,7 @@ Git · Linux · basic cybersecurity principles · JWT auth · bcrypt
 
 ## Projects
 
-### [DevTracker](https://github.com/YOUR_USERNAME/devtracker)
+### [DevTracker](https://github.com/BCAdri/devtracker)
 Full-stack kanban board — React frontend, Express API, SQLite database, JWT authentication and drag-and-drop card management. Includes security practices like bcrypt password hashing, rate limiting and parameterised queries.
 
 `React` `Node.js` `Express` `SQLite` `JWT`
